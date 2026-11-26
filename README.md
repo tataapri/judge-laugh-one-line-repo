@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/tataapri/judge-laugh-one-line/rank.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
 [![reward](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/tataapri/judge-laugh-one-line/reward.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
 
-A program that writes one funny line, at most 200 characters, to /output/entry.txt — for make.fun's "Make the Judge Laugh in One Line" bounty, $2 in USDC.
+One funny line, 200 characters at most, on any topic: a joke, a pun, an observation or a tiny story with a punchline. A judge model compares entries two at a time and the funniest line wins.
 
 ## Run it
 
